@@ -23,7 +23,7 @@ A:其他的网盘太飞舞了,列举几个:
     >没说科学上网|V*N|不行
 - 访问下载界面
 ## 3.附录
-1. [下载地址](github.com/asd-85110/Cloud)
+1. [下载地址](github.com/asd-85110/Cloud/releases)
 2. [NDM下载](www.neatdownloadmanager.com/index.php/en/)
 3. [Motrix下载](motrix.app/zh-CN/)  
 敬请期待  
