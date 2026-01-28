@@ -24,7 +24,7 @@ A:其他的网盘太飞舞了,列举几个:
 - 访问下载界面
 ## 3.附录
 1. [下载地址](https://github.com/asd-85110/Cloud/releases)
-2. [NDM下载](www.neatdownloadmanager.com/index.php/en/)
-3. [Motrix下载](motrix.app/zh-CN/)  
+2. [NDM下载](https://www.neatdownloadmanager.com/index.php/en/)
+3. [Motrix下载](https://motrix.app/zh-CN/)  
 敬请期待  
 ![melonlogo](melon.png)
